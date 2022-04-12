@@ -56,9 +56,7 @@ public class TicMarket : MonoBehaviour
         preciototalcondescuento = precioproducto1 + precioproducto2 + precioproducto3;
         float descuentoefectuado;
         descuentoefectuado = preciototalsindescuento - preciototalcondescuento;
-        float preciototalcondescuentofinal = descuentoefectuado;
-        descuentoefectuado = preciototalsindescuento - descuentoefectuado;
-        Debug.Log("Monto total sin descuento: "+preciototalsindescuento+", Monto de los descuentos aplicados: "+descuentoefectuado+", Total con descuentos hechos: "+preciototalcondescuentofinal+"");
+        Debug.Log("Monto total sin descuento: "+preciototalsindescuento+", Monto de los descuentos aplicados: "+descuentoefectuado+", Total con descuentos hechos: "+preciototalcondescuento+"");
     }
 
 

@@ -210,15 +210,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 402ef9ce660d6e641b56fa35d4115ef4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nombreproducto1: Zapas
-  nombreproducto2: Remera
-  nombreproducto3: Buzo
-  precioproducto1: 500
-  precioproducto2: 800
-  precioproducto3: 1000
+  nombreproducto1: pelotero
+  nombreproducto2: edificio
+  nombreproducto3: remeras
+  precioproducto1: 2000
+  precioproducto2: 1000
+  precioproducto3: 4000
   cantidadproducto1: 2
-  cantidadproducto2: 4
-  cantidadproducto3: 5
+  cantidadproducto2: 5
+  cantidadproducto3: 3
 --- !u!4 &526883299
 Transform:
   m_ObjectHideFlags: 0
